@@ -1,0 +1,1 @@
+cmd_drivers/scsi/scsi_wait_scan.ko := ../prebuilts/gcc/linux-x86/arm/arm-eabi-4.6/bin/arm-eabi-ld.bfd -EL -r  -T /media/mwilson/SSD/NU3001/kk4.4.2-rk/kernel/scripts/module-common.lds --build-id  -o drivers/scsi/scsi_wait_scan.ko drivers/scsi/scsi_wait_scan.o drivers/scsi/scsi_wait_scan.mod.o

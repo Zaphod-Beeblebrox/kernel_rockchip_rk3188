@@ -1,0 +1,1 @@
+cmd_drivers/input/touchscreen/aw5x0x/built-in.o :=  rm -f drivers/input/touchscreen/aw5x0x/built-in.o; ../prebuilts/gcc/linux-x86/arm/arm-eabi-4.6/bin/arm-eabi-ar rcsD drivers/input/touchscreen/aw5x0x/built-in.o

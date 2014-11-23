@@ -1,0 +1,1 @@
+cmd_drivers/input/touchscreen/built-in.o :=  ../prebuilts/gcc/linux-x86/arm/arm-eabi-4.6/bin/arm-eabi-ld.bfd -EL    -r -o drivers/input/touchscreen/built-in.o drivers/input/touchscreen/ct36x/built-in.o drivers/input/touchscreen/rk29_i2c_goodix.o drivers/input/touchscreen/zet62xx/built-in.o drivers/input/touchscreen/aw5x0x/built-in.o 

@@ -1,0 +1,1 @@
+cmd_drivers/media/video/gspca/gspca_main.ko := ../prebuilts/gcc/linux-x86/arm/arm-eabi-4.6/bin/arm-eabi-ld.bfd -EL -r  -T /media/mwilson/SSD/NU3001/kk4.4.2-rk/kernel/scripts/module-common.lds --build-id  -o drivers/media/video/gspca/gspca_main.ko drivers/media/video/gspca/gspca_main.o drivers/media/video/gspca/gspca_main.mod.o
